@@ -1,7 +1,13 @@
-ad301.uber.space
-================
+https://ad301.org
+=================
 
 Personal website ignoring all best practices!
 
-All files beginning with php_ are purely php code, everything else just has
-the .php extension out of lazyness.
+Site overview
+-------------
+
+index.php       Kind of obvious
+style.css       Makes index look windows95
+src             Server side php scripts
+pages           Subdirectories of the site
+resources       Icons and media and stuff
