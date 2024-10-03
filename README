@@ -6,8 +6,8 @@ Personal website ignoring all best practices!
 Site overview
 -------------
 
-index.php       Kind of obvious
-style.css       Makes index look windows95
-src             Server side php scripts
-pages           Subdirectories of the site
-resources       Icons and media and stuff
+index.php   Kind of obvious
+style.css   Makes index look windows95
+src/        Server side php scripts
+pages/      Subdirectories of the site
+resources/  Icons and media and stuff
