@@ -29,16 +29,13 @@
                 Below is a video of me improvising on piano.
             </p>
 
-            <video width="320" height="240" controls>
-                <source src="resources/music/2024-10-03-piano-improv.MP4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+            <br><a class="button inset" href="resources/music/2024-10-03-piano-improv.MP4">Click here to see me play piano</a>
 
             <hr>
 
             <p><img src="resources/icons/inbox.ICO" class="ico"> GUESTBOOK <img src="resources/icons/inbox.ICO" class="ico"></p>
 
-            <button class="button inset"  onclick="location.href = 'pages/guestbook.php'">Sign the guestbook</button>
+            <br><a class="button inset"  href="pages/guestbook.php">Sign the guestbook</a>
 
             <?php include "src/php_guestbook.php"; ?>
 
