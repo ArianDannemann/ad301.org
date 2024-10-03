@@ -14,7 +14,7 @@
 
             <p>Directory</p>
             <ul>
-                <li><a href="../portfolio.php">Go back <img src="../../resources/back.ICO" class="ico"></a></li>
+                <li><a href="../portfolio.php">Go back <img src="../../resources/icons/back.ICO" class="ico"></a></li>
             </ul>
 
             <hr>

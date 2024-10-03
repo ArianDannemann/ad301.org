@@ -36,7 +36,7 @@
 
             <hr>
 
-            <p><img src="resources/inbox.ICO" class="ico"> GUESTBOOK <img src="resources/icons/inbox.ICO" class="ico"></p>
+            <p><img src="resources/icons/inbox.ICO" class="ico"> GUESTBOOK <img src="resources/icons/inbox.ICO" class="ico"></p>
 
             <button class="button inset"  onclick="location.href = 'pages/guestbook.php'">Sign the guestbook</button>
 

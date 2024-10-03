@@ -2,7 +2,7 @@
 {
     margin: 0;
     padding: 0;
-    cursor: url("resources/cursor.ICO"), default;
+    cursor: url("resources/icons/cursor.ICO"), default;
 }
 *, *:before, *:after
 {
@@ -32,7 +32,7 @@ li
     margin-left: 1ch;
     padding-left: 3ch;
 
-    background-image: url("resources/folder.ICO");
+    background-image: url("resources/icons/folder.ICO");
 	background-repeat: no-repeat;
 	background-position: left;
 	background-size: 2ch;
