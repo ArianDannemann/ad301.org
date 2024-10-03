@@ -37,6 +37,12 @@
             </div>
 
             <p class="turn-text">Your turn</p>
+
+            <hr>
+
+            <p>
+                This game is <a href="https://github.com/ArianDannemann/ttt-web">open source <img src="../../resources/icons/extern_link.ICO" class="ico"></a></a>
+            </p>
         </div>
 
         <script src="./eval_move.js"></script>
