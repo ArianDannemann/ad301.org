@@ -15,11 +15,15 @@ html
     box-sizing: border-box;
     font-size: large;
     font-family: serif;
+    cursor: url("resources/icons/cursor.ICO"), default;
+    background-image: url(resources/backgrounds/space.JPG);
 }
 
-body
-{
-    background-color: #1a5fb4;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 ul
@@ -56,7 +60,7 @@ hr
 {
     max-width: 65ch;
     min-width: 0ch;
-    margin: 10px auto;
+    margin: auto;
     overflow-wrap: break-word;
 }
 
