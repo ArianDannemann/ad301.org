@@ -18,6 +18,7 @@
             <ul>
                 <li><a href="pages/dinosaur.php">Dinosaur</a></li>
                 <li><a href="pages/portfolio.php">Portfolio</a></li>
+                <li><a href="pages/phonebook.php">Phonebook</a></li>
                 <li><a href="https://github.com/ArianDannemann">GitHub <img src="resources/icons/extern_link.ICO" class="ico"></a></li>
             </ul>
 

@@ -26,6 +26,7 @@
             </p>
 
             <ul>
+                <li><a href="https://neocities.org/browse">neocities.org <img src="../resources/icons/extern_link.ICO" class="ico"></a></li>
                 <li><a href="https://www.imood.com/">imood.com <img src="../resources/icons/extern_link.ICO" class="ico"></a></li>
             </ul>
         </div>
