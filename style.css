@@ -31,7 +31,13 @@ ul
     list-style-type: none;
 }
 
-li
+ol
+{
+    list-style-type: decimal;
+    margin-left: 1ch;
+}
+
+ul li
 {
     margin-left: 1ch;
     padding-left: 3ch;
@@ -40,6 +46,11 @@ li
 	background-repeat: no-repeat;
 	background-position: left;
 	background-size: 2ch;
+}
+
+ol li
+{
+    margin-left: 1ch;
 }
 
 hr
@@ -95,6 +106,12 @@ hr
 .ico
 {
     height: 2ch;
+}
+
+.code
+{
+    font-family: monospace;
+    white-space: pre-wrap;
 }
 
 input, textarea

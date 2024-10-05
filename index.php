@@ -45,6 +45,9 @@
             <p>
                 Proudly hosted on <a href="https://uberspace.de/">Uberspace <img src="resources/icons/extern_link.ICO" class="ico"></a></a>!
             </p>
+            <p>
+                This website is <a href="https://github.com/ArianDannemann/ad301.org">open source <img src="../../resources/icons/extern_link.ICO" class="ico"></a></a>
+            </p>
         </div>
     </body>
 </html>

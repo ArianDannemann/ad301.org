@@ -17,7 +17,8 @@
             <p>Directory</p>
             <ul>
                 <li><a href="../index.php">Go back <img src="../resources/icons/back.ICO" class="ico"></a></li>
-                <li><a href="tictactoe/game.php">Unbeatable TicTacToe</a></li>
+                <li><a href="tictactoe/game.php">ttt-web</a></li>
+                <li><a href="funl.php">funl</a></li>
             </ul>
 
             <hr>
